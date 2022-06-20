@@ -26,7 +26,7 @@ struct InfoView: View {
                     Text("Application")
                         .foregroundColor(Color.gray)
                     Spacer()
-                    Text("Honeymoon")
+                    Text("Honey to the moon")
                 }
                 
                 Text("Credits")
