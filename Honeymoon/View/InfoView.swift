@@ -18,7 +18,7 @@ struct InfoView: View {
                 
                 Spacer(minLength: 10)
                 
-                Text("App Info")
+                Text("App Information")
                     .fontWeight(.black)
                     .modifier(TitleModifier())
                 
